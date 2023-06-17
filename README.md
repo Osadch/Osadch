@@ -1,4 +1,7 @@
-### Hi there 👋
+### Привет! 👋 Меня зовут Лена, я разработчик С++
+
+## Я выпускница курса С++  
+Яндекс Практикума
 
 <!--
 **Osadch/Osadch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
